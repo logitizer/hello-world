@@ -1,2 +1,3 @@
 # hello-world
 introduction to github
+Well, I'm pretty new here, quite unfamiliar but eager to understand a bit more about that stuff...
